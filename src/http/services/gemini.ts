@@ -2,7 +2,8 @@ import { GoogleGenAI } from '@google/genai'
 import { ZodBase64 } from 'zod'
 
 const genAi = new GoogleGenAI({
-    apiKey: 'AIzaSyD_-3sax_b3bCD6UNDzfk887KfaT6vuPaQ'
+    // Key deleted for security reasons, please use your own API key
+    apiKey: process.env.GOOGLE_GEN_AI_API_KEY
 })
 
 
