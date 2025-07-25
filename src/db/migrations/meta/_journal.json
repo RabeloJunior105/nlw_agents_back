@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1752100630931,
+      "tag": "0000_thin_mockingbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752276440520,
+      "tag": "0001_cooing_stark_industries",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752614892896,
+      "tag": "0002_lethal_doctor_doom",
+      "breakpoints": true
+    }
+  ]
+}
